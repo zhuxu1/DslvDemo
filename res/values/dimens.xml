@@ -1,0 +1,152 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="item_height">67dp</dimen>
+    <dimen name="section_div_height">20dp</dimen>
+    
+    
+    
+    
+    
+     <dimen name="common_title_size36">36sp</dimen>
+    <dimen name="common_title_size24">24sp</dimen>
+    <dimen name="common_title_size22">22sp</dimen>
+    <dimen name="common_title_size20">20sp</dimen>
+    <dimen name="common_title_size18">18sp</dimen>
+    <dimen name="common_title_size17">17sp</dimen>
+    <dimen name="common_title_size16">16sp</dimen>
+    <dimen name="common_title_size15">15sp</dimen>
+    <dimen name="common_title_size14">14sp</dimen>
+    <dimen name="common_title_size12">12sp</dimen>
+    <dimen name="common_title_size11">11sp</dimen>
+    <dimen name="common_title_size10">10sp</dimen>
+    <dimen name="common_title_size9">9sp</dimen>
+    <dimen name="common_title_size8">8sp</dimen>
+    
+	<dimen name="corner_radius">4dip</dimen>
+	<dimen name="tab_space_top">1dip</dimen>
+	<dimen name="tab_space">1dip</dimen>
+	<dimen name="tab_space_plus1">2dip</dimen>
+	<dimen name="title_height">44dp</dimen>
+	<dimen name="tab_height">49dp</dimen>
+	<dimen name="tab_bottom_line">57dip</dimen>
+	<dimen name="tab_bottom_shadow">54dip</dimen>
+	<dimen name="tab_bottom_shadow_thin">56dip</dimen>
+	<dimen name="action_dialog_title_height">40dip</dimen>
+	<dimen name="action_dialog_min_item_height_large">48dip</dimen>
+	<dimen name="action_dialog_min_item_height_medium">40dip</dimen>
+	<dimen name="action_dialog_min_item_height_small">32dip</dimen>
+	<dimen name="action_dialog_min_item_height_extra_small">26dip</dimen>
+	<dimen name="action_dialog_min_item_height_extra_extra_small">20dip</dimen>
+	<dimen name="new_order_caption_width">80dp</dimen>
+	<dimen name="new_order_caption_width_large">100dp</dimen>
+	<dimen name="new_order_caption_width_small">65dp</dimen>
+	<dimen name="new_order_caption_sub_info_width">70dp</dimen>
+		
+	<dimen name="common_list_item_spacing">4dip</dimen>
+	<dimen name="common_list_item_margin_left">8dip</dimen>
+	<dimen name="common_list_item_margin_right">8dip</dimen>
+	<dimen name="dialog_result_margin">15dp</dimen>
+	<dimen name="dialog_result_margin_half">6dp</dimen>
+	<dimen name="background_frame_padding">15dp</dimen>
+
+	<dimen name="info_item_padding">4dp</dimen>
+	<dimen name="info_item_height">45dp</dimen>
+	<dimen name="info_item_double_height">84dp</dimen>
+	<dimen name="info_item_height_wp">50dp</dimen>
+	<dimen name="info_item_double_height_wp">96dp</dimen>
+	<dimen name="info_item_triple_height_wp">124dp</dimen>
+	<dimen name="info_item_small_height">32dp</dimen>
+	<dimen name="info_item_small_double_height">64dp</dimen>
+	<dimen name="info_item_small_double_height_wp">72dp</dimen>
+	<dimen name="info_item_small_2_rows_wp">64dp</dimen>
+
+	<dimen name="common_layout_margin">15dp</dimen>
+	<dimen name="common_layout_margin_top">15dp</dimen>
+	<dimen name="common_layout_margin_bottom">13dp</dimen>
+	<dimen name="common_layout_padding">15dp</dimen>
+    <dimen name="common_layout_vertical_margin">8dp</dimen>
+    <dimen name="common_left_icon_marginLeft">10dp</dimen>
+	<dimen name="common_btn_height">42dp</dimen>
+	<dimen name="common_btn_margin">15dp</dimen>
+	<dimen name="common_comfirm_btn_margintop">10dp</dimen>
+	<dimen name="common_comfirm_btn_marginbuttom">15dp</dimen>
+	<dimen name="common_single_layout_height">46dp</dimen>
+    <dimen name="common_single_layout_paddingright">2dp</dimen>
+    <dimen name="common_divider_line_height">1px</dimen>
+    <dimen name="common_edit_layout_height">32dp</dimen>
+    <dimen name="common_edit_vertical_margin">7dp</dimen>
+    <dimen name="common_edit_paddingleft">8dp</dimen>
+    <dimen name="common_edit_paddingright">30dp</dimen>
+    <dimen name="common_clean_vertical_margin">8dp</dimen>
+    
+    <dimen name="userinfo_height">35dp</dimen>
+    <dimen name="quote_table_tips_width">90dp</dimen>
+    <dimen name="quote_table_proname_width">103dp</dimen>
+    <dimen name="quote_table_time_width">182dp</dimen>
+    <dimen name="quote_table_button_price_width">82dp</dimen>
+    <dimen name="quote_table_price_width">87dp</dimen>
+    <dimen name="quote_table_spreed_width">48dp</dimen>
+    
+    <dimen name="item_symbol_margintop">12dp</dimen>
+    <dimen name="item_symbol_marginbottom">12dp</dimen>
+    <dimen name="item_symbol_marginleft">12dp</dimen>
+    <dimen name="item_symbol_marginright">12dp</dimen>
+    <dimen name="item_symbol_padding">15dp</dimen>
+    <dimen name="item_symbol_time_margintop">2dp</dimen>
+    <dimen name="item_symbol_price_margintop">9dp</dimen>
+    <dimen name="item_symbol_button_height">50dp</dimen>
+    <dimen name="item_symbol_button_margin">5dp</dimen>
+    <dimen name="item_symbol_price_linespace">0dp</dimen>
+    <dimen name="item_symbol_button_pad_l">10dp</dimen>
+    <dimen name="item_symbol_button_pad_t">8dp</dimen>
+    <dimen name="item_symbol_button_pad_r">12dp</dimen>
+    <dimen name="item_symbol_button_pad_b">6dp</dimen>
+    <dimen name="item_symbol_button_margin_top">3dp</dimen>
+    <dimen name="item_symbol_spreed_radiu">18dp</dimen>
+    <dimen name="item_symbol_spreed_size">9sp</dimen>
+    <dimen name="item_symbol_spreed_height">10dp</dimen>
+    <dimen name="item_symbol_spreed_width">25dp</dimen>
+    <dimen name="item_symbol_proname_size">20sp</dimen>
+    <dimen name="item_symbol_right_title_size">10sp</dimen>
+    <dimen name="item_symbol_newprice_title_size">12sp</dimen>
+    <dimen name="item_symbol_time_title_size">10sp</dimen>
+    <dimen name="item_symbol_price_title_size">15sp</dimen>
+    <dimen name="item_symbol_price_subfix_title_size">19sp</dimen>
+    <dimen name="item_symbol_price_super_title_size">30px</dimen>
+    <dimen name="item_symbol_price_small_title_size">16sp</dimen>
+    <dimen name="item_symbol_title_size">12sp</dimen>
+    <dimen name="item_symbol_lot_height">50dp</dimen>
+    <dimen name="item_symbol_lot_btn_width">35dp</dimen>
+    <dimen name="item_symbol_lot_input_width">35dp</dimen>
+    
+    <dimen name="my_activity_item_height">35dp</dimen>
+    
+    <dimen name="toggle_btn_height">40dp</dimen>
+    <dimen name="search_btn_height">50dp</dimen>
+    <dimen name="settle_item_btn_height">18dp</dimen>
+      
+    <dimen name="chart_prices_height">70dp</dimen>
+    <dimen name="chart_price_super_title_size">20px</dimen>
+    
+    <dimen name="news_type_btn_width">78dp</dimen>
+    
+    <dimen name="item_finance_calendar">40dp</dimen>
+    
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    
+    <dimen name="my_activity_item_act_res_title">67dp</dimen>
+    <dimen name="my_activity_margin_left">6dp</dimen>
+    
+    <dimen name="contract_property_width">85dp</dimen>
+    
+    <!-- 预警管理部分 -->
+    <dimen name="warn_add_bottom">20dp</dimen>
+    
+
+</resources>

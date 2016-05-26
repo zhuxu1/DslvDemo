@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.gengducun.dslvdemo.CheckableLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/item_height"
+    android:orientation="horizontal" 
+    android:background="@color/list_item_product_color">
+
+    <CheckedTextView
+        android:id="@+id/ctv_purduct_name"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/item_height"
+        android:checkMark="@null"
+        android:drawableLeft="?android:attr/listChoiceIndicatorSingle"
+        android:drawableRight="@null"
+        android:gravity="center_vertical"
+        android:paddingLeft="8dp"
+        android:textColor="@android:color/white"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <View
+        android:layout_width="0dip"
+        android:layout_height="@dimen/item_height"
+        android:layout_weight="1" />
+
+    <ImageView
+        android:id="@+id/drag_handle"
+        android:layout_width="60dip"
+        android:layout_height="@dimen/item_height"
+        android:layout_gravity="right"
+        android:scaleType="fitXY"
+        android:src="@drawable/drag" />
+
+</com.gengducun.dslvdemo.CheckableLinearLayout>
